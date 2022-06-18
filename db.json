@@ -1,16 +1,151 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
+  "Mens":[
+     {"id":1,
+      "isNew": true,
+      "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7488102/2019/8/22/8002a744-0dad-4dbb-9481-cf0090134c3b1566454086786-Dennis-Lingo-Men-Pink-Slim-Fit-Solid-Casual-Shirt-9891566454-1.jpg" ,
+      "name":"Dennis Lingo",
+   
+      "price":610,
+      "reviews":34
+  },
+
+  {"id":2,
+    "isNew": true,
+      "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2347555/2019/12/3/77c23017-fd9d-4ad8-95f5-8722154e85ac1575361938857-HIGHLANDER-Men-White--Blue-Slim-Fit-Striped-Casual-Shirt-304-1.jpg" ,
+      "name":"HIGHLANDER",
+     
+      "price":582,
+      "reviews":82
+  },
+
+  {"id":3,
+    "isNew": true,
+      "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1862801/2018/2/9/11518155061506-Roadster-Men-Maroon--Navy-Blue-Regular-Fit-Checked-Casual-Shirt-8861518155061131-1.jpg" ,
+      "name":"Roadster",
+     
+      "price":599,
+      "reviews":48
+  },
+
+  {"id":4,
+    "isNew": true,
+      "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1729391/2019/8/28/a9d4a7aa-af7e-4a37-a9d4-a94dc8c057e81566992341974-WROGN-Navy-Blue-Slim-Fit-Checked-Casual-Shirt-52415669923403-1.jpg" ,
+      "name":"WROGN",
+     
+      "price":1299,
+      "reviews":59
+  },
+
+
+  {"id":5,
+    "isNew": true,
+      "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7488103/2019/8/22/acfba45f-8f9c-4b97-b5bc-a909418bdf4c1566454100620-Dennis-Lingo-Men-Green-Slim-Fit-Solid-Casual-Shirt-358156645-3.jpg" ,
+      "name":"Dennis Lingo",
+     
+      "price":610,
+      "reviews":69
+  },
+
+  {"id":6,
+    "isNew": true,
+      "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1353004/2018/9/18/a8acac3a-077a-400f-a1c7-519215a5265e1537251707732-Roadster-Men-Blue-Denim-Washed-Casual-Shirt-5281537251705552-1.jpg" ,
+      "name":"Roadster",
+     
+      "price":719,
+      "reviews":101
+  }
+  ], 
+
+  "Womens":[
+    {"id":1,
+      "isNew": true,
+      "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/12595594/2020/10/15/b6e22b58-3450-468f-afeb-3218b6ce7acb1602737925709SareemallNavyBluePolyChiffonSolidEthnicPartywearSareewithMat1.jpg" ,
+      "name":"Antheaa",
+     
+      "price":1081,
+      "reviews":41
+  },
+  {"id":2,
+    "isNew": true,
+    "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10856160/2019/11/5/f0172470-408a-4b8b-a1e5-045bd98a5f8b1572938035104-SASSAFRAS-Women-Dresses-9581572938032856-1.jpg" ,
+    "name":"SASSAFRAS",
+    "price":791,
+    "reviews":51
+},
+{"id":3,
+  "isNew": true,
+  "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17996512/2022/4/23/0b429fef-c920-4a84-b8a1-114a044467881650654558510JTurritopsisMulticolouredMidiDress1.jpg" ,
+  "name":"J Turritopsis",
+ 
+  "price":599,
+  "reviews":61
+},
+{"id":4,
+  "isNew": true,
+  "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/9/16/25f5b6a7-ce25-4e66-8a61-3aa2037b6c741600207614629-1.jpg" ,
+  "name":"Harpa",
+ 
+  "price":798,
+  "reviews":71
+},
+{"id":5,
+  "isNew": true,
+  "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11364418/2022/1/24/93630b42-b1c0-4878-a139-8d7a82da527b1643004208091-SASSAFRAS-Maroon-Tiered-Maxi-Dress-1411643004207396-1.jpg" ,
+  "name":"SASSAFRAS",
+ 
+  "price":615,
+  "reviews":81
+}
+   
   ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+
+  "Unisex":[
+    
+      {"id":1,
+        "isNew": true,
+        "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18145120/2022/5/4/afa24792-9063-4865-ae96-56973c78dac31651667671345FREAKINSUnisexBlueDenimJacketwithPatchwork1.jpg" ,
+        "name":"FREAKINS",
+       
+        "price":1599,
+        "reviews":48
+      },
+      {"id":2,
+        "isNew": true,
+        "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15118718/2021/10/13/170c6613-6806-430c-9c29-80efa8b052341634110621595-Puma-Unisex-Track-Pants-8351634110620881-1.jpg" ,
+        "name":"PUMA",
+       
+        "price":2699,
+        "reviews":100
+      },
+      {"id":3,
+        "isNew": true,
+        "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15161044/2021/9/21/c0b4344a-946a-409a-8a3e-7b1ea640e27d1632220979046-Puma-Kids-Black--Blue-Graphic-Print-Lil-Hoodie-Sweatshirt-97-1.jpg" ,
+        "name":"PUMA",
+       
+        "price":1119,
+        "reviews":118
+      },
+      {"id":4,
+        "isNew": true,
+        "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/8089727/2022/6/15/511c3f46-bd93-4d2d-aa3f-4eefa2e213b91655317053677CherryCrumbleKidsOliveGreenCorduroyDungarees1.jpg" ,
+        "name":"Cherry",
+       
+        "price":909,
+        "reviews":115
+      },
+      {"id":5,
+        "isNew": true,
+        "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/11/10/136c19d0-f9c4-4fa6-9721-a75ec2907d311604954239349-1.jpg" ,
+        "name":"Adidas",
+       
+        "price":1899,
+        "reviews":212
+      }
+
+    
+  ],
+
+  "cart":[
+    
   ]
 }
