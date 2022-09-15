@@ -674,10 +674,58 @@
         "name":"parth",
         "age":24,
         "place":"Wardha",
-        "batch_name":"FW-15",
+        "batch_name":"WEB-15",
         "profession":"Full-Stack Developer"
     
-    }
+    },
+    {
+        "id": 2,
+        "name": "Chandra",
+        "age": 29,
+        "place": "Visakhapatnam",
+        "batch_name": "WEB-15",
+        "profession": "FSD"
+      },
+      {
+        "id": 3,
+        "name": "Nrupul",
+        "age": 32,
+        "place": "Vijayawada",
+        "batch_name": "WEB-15",
+        "profession": "FSD"
+      }
+      {
+        "id": 4,
+        "name": "Harshal",
+        "age": 21,
+        "place": "Visakhapatnam",
+        "batch_name": "WEB-14",
+        "profession": "FSD"
+      },
+      {
+        "id":5 ,
+        "name": "Athrav",
+        "age": 27,
+        "place": "Vijayawada",
+        "batch_name": "WEB-13",
+        "profession": "FSD"
+      },
+      {
+        "id": 6,
+        "name": "Shradha",
+        "age": 25,
+        "place": "Visakhapatnam",
+        "batch_name": "WEB-13",
+        "profession": "FSD"
+      },
+      {
+        "id": 7,
+        "name": "Sarthak",
+        "age": 30,
+        "place": "Vijayawada",
+        "batch_name": "WEB-15",
+        "profession": "FSD"
+      }
    ]
 
   
