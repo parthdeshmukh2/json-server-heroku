@@ -758,7 +758,16 @@
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
-    }
+    },
+    {
+        "id": 2,
+        "brand": "Suzuki",
+        "year": 2019,
+        "type":"Automatic",
+        "kms": 10500,
+        "Description": "Suzuki Dezire with all original documents",
+        "Price": 400000
+      }
   ]
 
   
